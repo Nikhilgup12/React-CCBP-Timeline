@@ -1,0 +1,20 @@
+.ccbp-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.ccbp-heading {
+  color: #171f46;
+  font-size: 16px;
+}
+.ccbp-para {
+  color: #2b237c;
+  font-family: Roboto;
+  font-weight: bold;
+  text-align: center;
+}
+.chrono-container {
+  width: 800px;
+  height: 600px;
+}
